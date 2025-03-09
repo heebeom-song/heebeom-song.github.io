@@ -1,15 +1,13 @@
-title: example.com
+title: Welcome! This is ratel's Blog.
 description: "Satellite - jekyll blog theme"
-logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile.webp"
+logo_img: "/assets/img/favicon1.png"
+profile_img: "/assets/img/profile1.jpg"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: songh6508@gmail.com
+github_username: heebeom-song
+instagram_username: hb_sim_98
+linkedin_username: ratel-song-36169234b
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
