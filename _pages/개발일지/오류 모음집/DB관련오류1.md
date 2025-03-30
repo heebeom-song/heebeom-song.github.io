@@ -5,7 +5,7 @@ tags:
     - Sequelize
     - Backend
 date: "2025-03-23"
-thumbnail: "/assets/img/thumbnail/empty.jpg"
+thumbnail: "/assets/img/thumbnail/error.png"
 ---
 
 Node.js에서 ORM 라이브러리인 Sequlize를 사용하던 중 아래와 같은 오류가 발생하였다!

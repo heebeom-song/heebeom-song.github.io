@@ -5,7 +5,7 @@ tags:
     - server
     - backend
 date: "2025-03-16"
-thumbnail: "/assets/img/thumbnail/QoddiImg.png"
+thumbnail: "/assets/img/thumbnail/cloudtype.png"
 bookmark: true
 ---
 
