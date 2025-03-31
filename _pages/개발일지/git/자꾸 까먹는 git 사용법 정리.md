@@ -3,7 +3,6 @@ title: "나를 위한 자꾸 까먹는 git 사용법 모음집"
 tags:
     - git
     - github
-    - 분산 버전 관리 시스템
 date: "2025-03-31"
 thumbnail: "/assets/img/thumbnail/git,github.png"
 ---
