@@ -4,7 +4,7 @@ tags:
     - user manual
     - writing format
 date: "2024-02-04"
-thumbnail: "/assets/img/thumbnail/sample.png"
+thumbnail: "/assets/img/thumbnail/postimg.png"
 ---
 
 This section deals with the step-by-step process of how to write and publish posts on your site.

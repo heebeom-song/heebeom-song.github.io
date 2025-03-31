@@ -5,7 +5,7 @@ tags:
     - markdown
     - writing format
 date: "2023-09-05"
-thumbnail: "/assets/img/thumbnail/sample.png"
+thumbnail: "/assets/img/thumbnail/markdown.png"
 ---
 
 # Headings
