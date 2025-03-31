@@ -6,7 +6,6 @@ tags:
     - backend
 date: "2025-03-16"
 thumbnail: "/assets/img/thumbnail/cloudtype.png"
-bookmark: true
 ---
 
 팀 프로젝트 진행 중 Express로 구현한 backend 서버를 배포해야 하는 상황이 발생했다!
