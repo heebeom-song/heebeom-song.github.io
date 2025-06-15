@@ -1,8 +1,8 @@
 ---
 title: "dynamic programming"
 tags:
-    - algorithm
-    - study
+    - Algorithm
+    - Study
 date: "2025-06-16"
 thumbnail: "/assets/img/thumbnail/algorithm.png"
 ---
@@ -49,7 +49,7 @@ DP를 사용하기 위해서는 아래 2조건을 만족해야 합니다.
 
 아래 단계를 거쳐 문제를 해결할 수 있습니다.
 
-1.  DP로 풀 수 있는 문제인지 확인
+1. DP로 풀 수 있는 문제인지 확인
 
 2. 문제의 변수 파악
 
