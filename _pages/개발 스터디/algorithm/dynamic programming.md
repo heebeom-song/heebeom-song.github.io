@@ -19,7 +19,7 @@ thumbnail: "/assets/img/thumbnail/algorithm.png"
 
 일반적인 재귀법은 보통 O(n^2)의 시간 복잡도를 나타내는 반면 DP는 O(f(n))의 시간 복잡도를 보인다.
 
-![image.png](/assets/img/DP/피보나치.png)
+![피보나치.png](/assets/img/DP/피보나치.png)
 
 위 그림처럼 재귀법을 사용한다면 불필요하게 한번 구했던 값 (=함수 호출 횟수)을 한번 더 구해야함.
 
@@ -42,7 +42,7 @@ DP를 사용하기 위해서는 아래 2조건을 만족해야 합니다.
     **부분 문제의 최적 결과 값을 사용해 전체 문제의 최적 결과를 낼 수 있는 경우**를 의미한다. 
     만약, A - B까지의 가장 짧은 경로를 찾고자 하는 경우를 예시로 할 때, 중간에 X가 있을 때, A - X / X - B가 많은 경로 중 가장 짧은 경로라면 전체 최적 경로도 A - X - B가 정답이 된다.
     
-    ![image.png](/assets/img/DP/최적해.png)
+    ![최적해.png](/assets/img/DP/최적해.png)
     
 
 ### HOW USE?
