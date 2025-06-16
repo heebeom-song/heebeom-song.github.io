@@ -1,5 +1,8 @@
 ---
-title: "dynamic programming"
+title: "동적 계획법"
+tags:
+    - algorithm
+    - study
 date: "2025-06-16"
 thumbnail: "/assets/img/thumbnail/algorithm.png"
 ---
