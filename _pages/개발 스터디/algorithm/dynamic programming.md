@@ -1,5 +1,5 @@
 ---
-title: "동적 계획법"
+title: "dynamic programming"
 tags:
     - algorithm
     - study
